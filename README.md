@@ -1,2 +1,3 @@
 # BasicAuthDemo
-httpss://www.freecodespot.com
+Visit https://www.freecodespot.com/blog/basic-authentication-in-asp-net-mvc/
+for tutorials.
